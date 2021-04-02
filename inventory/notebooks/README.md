@@ -1,1 +1,6 @@
-Notebooks with data access protocols for external resources
+## Notebooks with data access protocols for external resources
+
+**Libraries**
+* pandas 
+* json 
+* requests
