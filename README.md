@@ -14,7 +14,7 @@ Python is automatically installed with anaconda.
 Verify the version by typing: python --version
 
 - **Virtual Environment**
-Create a virtual environment: conda create -n <env_name> python=<latest_version>
+Create a virtual environment: `conda create -n <env_name> python=<latest_version>`
 To activate environment: conda activate <env_name>
 
 - **Libraries/modules**
