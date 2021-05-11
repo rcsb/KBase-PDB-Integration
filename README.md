@@ -17,16 +17,16 @@ Verify the version by typing: python --version
 Create a virtual environment: conda create -n <env_name> python=<latest_version>
 To activate environment: conda activate <env_name>
 
-**Libraries/modules**
+- **Libraries/modules**
 Activate your environment and install the following on your CLI: conda install -c anaconda nb_conda_kernels
 Type y when prompted.
 Your installation is successful if you see "done" at the end of log.
 pip install pandas, json, requests, beautifulsoup4
 
-**Jupyter notebook**
+- **Jupyter notebook**
 Open Anaconda navigator and install jupyter notebook
 
-**To run notebooks locally**
+- **To run notebooks locally**
 Clone the repo
 Navigate to the directory where it is cloned
 In the terminal run `jupyter notebook` to launch notebook
