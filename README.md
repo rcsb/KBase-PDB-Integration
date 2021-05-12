@@ -1,5 +1,9 @@
 # KBase-PDB-Integration
 
+<<<<<<< HEAD
+A python codebase for developing data and software infrastructure needed to bridge KBase and PDB together, enabling bidirectional exchange of data between PDB and KBase.
+
+=======
 A python codebase for developing data and software infrastructure needed to bridge KBase and PDB together, enabling bidirectional exchange of data between the resources.
 
 ## Installations
@@ -32,3 +36,4 @@ Navigate to the directory where it is cloned
 In the terminal run `jupyter notebook` to launch notebook
 Set your kernel to the virtual environment you created 
 Now you should be able to run jupyter notebooks above
+>>>>>>> e637c241453b3e3b16c807eece0206f2304489a5
