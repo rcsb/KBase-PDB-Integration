@@ -5,7 +5,7 @@ A python codebase for developing data and software infrastructure needed to brid
 ## Installations
 
 1. **Anaconda**
-- [Follow guidelines for installations here](https://www.anaconda.com/products/individual).
+- Follow guidelines for installations [here](https://www.anaconda.com/products/individual).
 - Verify installation by typing: `conda --version`
 - Installation is successful if you get a version number (specific number doesn't matter). If you get an error like command not found, you will need some additional configurations.
 
