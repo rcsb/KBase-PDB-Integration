@@ -1,8 +1,6 @@
 # KBase-PDB-Integration
 
-
-A python codebase for developing data and software infrastructure needed to bridge KBase and PDB together, enabling bidirectional exchange of data between PDB and KBase.
-
+A python codebase for developing data and software infrastructure needed to bridge KBase and PDB together, enabling bidirectional exchange of data between PDB and KBase. This repo has files related to data access protocols in resources serving structural data. To run the files locally, follow the installation instructions to set up the required environment, clone the repo and run the jupyter notebook in the inventory/notebook directory. Each notebook corresponds to data access protocols in different resource. The resources that have been documented here are: The Swiss Model Repository (SMR), ModBase, Interactome3D, ModelArchive. 
 
 ## Installations
 
