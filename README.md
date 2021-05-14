@@ -23,7 +23,7 @@ A python codebase for developing data and software infrastructure needed to brid
 - `pip install pandas, json, requests, beautifulsoup4, biopython`
 
 5. **Jupyter notebook**
-Open Anaconda navigator and install jupyter notebook 
+- Open Anaconda navigator and install jupyter notebook 
 
 6. **To run notebooks locally**
 - Clone the repo
