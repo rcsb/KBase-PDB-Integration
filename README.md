@@ -19,7 +19,7 @@ A python codebase for developing data and software infrastructure needed to brid
 
 4. **Libraries/modules**
 - Activate your environment and install the following on your CLI: `conda install -c anaconda nb_conda_kernels`
-- Type y when prompted.Installation is successful if you see "done" at the end of log.
+- Type y when prompted. Installation is successful if you see "done" at the end of log.
 - `pip install pandas, json, requests, beautifulsoup4, biopython`
 
 5. **Jupyter notebook**
@@ -29,5 +29,5 @@ A python codebase for developing data and software infrastructure needed to brid
 - Clone the repo
 - Navigate to the directory where it is cloned
 - In the terminal run `jupyter notebook` to launch notebook
-- Set your kernel to the virtual environment you created. Now you should be able to run jupyter notebooks above
+- Set your kernel to the virtual environment you created. Now you should be able to run jupyter notebooks.
 
