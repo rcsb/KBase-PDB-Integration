@@ -1,5 +1,6 @@
 ### Example AlphaFold model mmCIF parsing and attributes
 
+~~~
 parser = PDB.MMCIFParser()
 structure = parser.get_structure("AF-1","./AF-P0ACR9-F1-model_v1.cif")
 parsed_info = parser._mmcif_dict
@@ -306,3 +307,4 @@ All Keys:
     _atom_site.pdbx_sifts_xref_db_num
     _atom_site.pdbx_sifts_xref_db_res
 
+~~~
