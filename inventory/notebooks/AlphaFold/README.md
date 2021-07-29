@@ -9,10 +9,6 @@ parsed_info['_ma_qa_metric_local.metric_value']
 for k in parsed_info:
     print(k,parsed_info[k])
 
-
-for k in parsed_info:
-    print(k,parsed_info[k])
-
     data_ AF-P0ACR9-F1
     _entry.id ['AF-P0ACR9-F1']
     _af_target_ref_db_details.gene ['mprA']
@@ -281,6 +277,7 @@ All Keys:
     _struct_ref_seq.ref_id
     _struct_ref_seq.seq_align_beg
     _struct_ref_seq.seq_align_end
+    
     _atom_site.group_PDB
     _atom_site.id
     _atom_site.type_symbol
