@@ -1,5 +1,9 @@
-### Example AlphaFold model mmCIF parsing and attributes
+### See the Jupyter notebook provided here for examples on code functions and usage: [alphafold.ipynb](alphafold.ipynb)
 
+
+---
+
+#### Notes on AlphaFold model mmCIF parsing and available attributes
 ~~~
 parser = PDB.MMCIFParser()
 structure = parser.get_structure("AF-1","./AF-P0ACR9-F1-model_v1.cif")
@@ -277,7 +281,7 @@ All Keys:
     _struct_ref_seq.ref_id
     _struct_ref_seq.seq_align_beg
     _struct_ref_seq.seq_align_end
-    
+
     _atom_site.group_PDB
     _atom_site.id
     _atom_site.type_symbol
